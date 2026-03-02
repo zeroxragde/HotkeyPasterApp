@@ -1,0 +1,17 @@
+C:\Users\ecarrizales\edgar\app\GIT\MisAPK\HotkeyPasterApp\bin\Release\net10.0-windows\HotkeyPasterApp.exe
+C:\Users\ecarrizales\edgar\app\GIT\MisAPK\HotkeyPasterApp\bin\Release\net10.0-windows\app.ico
+C:\Users\ecarrizales\edgar\app\GIT\MisAPK\HotkeyPasterApp\bin\Release\net10.0-windows\HotkeyPasterApp.deps.json
+C:\Users\ecarrizales\edgar\app\GIT\MisAPK\HotkeyPasterApp\bin\Release\net10.0-windows\HotkeyPasterApp.runtimeconfig.json
+C:\Users\ecarrizales\edgar\app\GIT\MisAPK\HotkeyPasterApp\bin\Release\net10.0-windows\HotkeyPasterApp.dll
+C:\Users\ecarrizales\edgar\app\GIT\MisAPK\HotkeyPasterApp\bin\Release\net10.0-windows\HotkeyPasterApp.pdb
+C:\Users\ecarrizales\edgar\app\GIT\MisAPK\HotkeyPasterApp\obj\Release\net10.0-windows\HotkeyPasterApp.Form1.resources
+C:\Users\ecarrizales\edgar\app\GIT\MisAPK\HotkeyPasterApp\obj\Release\net10.0-windows\HotkeyPasterApp.csproj.GenerateResource.cache
+C:\Users\ecarrizales\edgar\app\GIT\MisAPK\HotkeyPasterApp\obj\Release\net10.0-windows\HotkeyPasterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecarrizales\edgar\app\GIT\MisAPK\HotkeyPasterApp\obj\Release\net10.0-windows\HotkeyPasterApp.AssemblyInfoInputs.cache
+C:\Users\ecarrizales\edgar\app\GIT\MisAPK\HotkeyPasterApp\obj\Release\net10.0-windows\HotkeyPasterApp.AssemblyInfo.cs
+C:\Users\ecarrizales\edgar\app\GIT\MisAPK\HotkeyPasterApp\obj\Release\net10.0-windows\HotkeyPasterApp.csproj.CoreCompileInputs.cache
+C:\Users\ecarrizales\edgar\app\GIT\MisAPK\HotkeyPasterApp\obj\Release\net10.0-windows\HotkeyPasterApp.dll
+C:\Users\ecarrizales\edgar\app\GIT\MisAPK\HotkeyPasterApp\obj\Release\net10.0-windows\refint\HotkeyPasterApp.dll
+C:\Users\ecarrizales\edgar\app\GIT\MisAPK\HotkeyPasterApp\obj\Release\net10.0-windows\HotkeyPasterApp.pdb
+C:\Users\ecarrizales\edgar\app\GIT\MisAPK\HotkeyPasterApp\obj\Release\net10.0-windows\HotkeyPasterApp.genruntimeconfig.cache
+C:\Users\ecarrizales\edgar\app\GIT\MisAPK\HotkeyPasterApp\obj\Release\net10.0-windows\ref\HotkeyPasterApp.dll

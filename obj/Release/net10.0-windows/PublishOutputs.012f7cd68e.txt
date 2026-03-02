@@ -1,0 +1,6 @@
+C:\Users\ecarrizales\edgar\app\GIT\APPS\PASSWORDTOOL\app.ico
+C:\Users\ecarrizales\edgar\app\GIT\APPS\PASSWORDTOOL\HotkeyPasterApp.exe
+C:\Users\ecarrizales\edgar\app\GIT\APPS\PASSWORDTOOL\HotkeyPasterApp.dll
+C:\Users\ecarrizales\edgar\app\GIT\APPS\PASSWORDTOOL\HotkeyPasterApp.deps.json
+C:\Users\ecarrizales\edgar\app\GIT\APPS\PASSWORDTOOL\HotkeyPasterApp.runtimeconfig.json
+C:\Users\ecarrizales\edgar\app\GIT\APPS\PASSWORDTOOL\HotkeyPasterApp.pdb
