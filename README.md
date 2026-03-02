@@ -16,23 +16,13 @@ Sistema Operativo: Windows 10 o superior.
 Framework: .NET 6.0 Runtime o superior (para ejecutar el .exe) o .NET 6.0 SDK (para compilar desde el código fuente).
 
 Instalación y Uso
-Opción 1: Usar el Ejecutable Precompilado
-Descarga la última versión desde la sección de Releases.
+Obtén los archivos de la aplicación para comenzar.
 
-Extrae el archivo .zip en una carpeta de tu elección.
+Extrae los archivos de la aplicación en una carpeta de tu elección.
 
 Ejecuta HotkeyPasterApp.exe.
 
 Asegúrate de que el archivo MiIcono.ico esté en la misma carpeta para que se muestre correctamente en el tray.
-
-Opción 2: Compilar desde el Código Fuente
-Clona este repositorio: git clone https://github.com/tu-usuario/HotkeyPaster.git.
-
-Abre el proyecto en Visual Studio 2022 o superior.
-
-Asegúrate de tener instalado el SDK de .NET 6.0.
-
-Compila y ejecuta el proyecto (F5).
 
 Configuración
 Una vez que la aplicación esté ejecutándose en el tray, haz clic derecho sobre su icono para acceder al menú:
@@ -54,8 +44,5 @@ La clave de encriptación está compilada directamente en el código de la aplic
 
 Nota Importante: Aunque AES-256 es muy seguro, cualquier persona con acceso al código fuente y conocimientos técnicos podría extraer la clave compilada. Esta herramienta está diseñada para proteger tu texto de accesos casuales o no autorizados en tu propia máquina, no de análisis forenses avanzados.
 
-Contribuciones
-¡Las contribuciones son bienvenidas! Si tienes ideas para nuevas características, mejoras de seguridad o correcciones de errores, por favor abre un issue o envía un pull request.
-
 Licencia
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+Este proyecto está bajo la Licencia MIT.
